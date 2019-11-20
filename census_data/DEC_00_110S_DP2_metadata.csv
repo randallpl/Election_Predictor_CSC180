@@ -1,0 +1,207 @@
+GEO.id,Id
+GEO.id2,Id2
+GEO.display-label,Geography
+HC01_VC02,Number; SCHOOL ENROLLMENT - Population 3 years and over enrolled in school
+HC02_VC02,Percent; SCHOOL ENROLLMENT - Population 3 years and over enrolled in school
+HC01_VC03,"Number; SCHOOL ENROLLMENT - Population 3 years and over enrolled in school - Nursery school, preschool"
+HC02_VC03,"Percent; SCHOOL ENROLLMENT - Population 3 years and over enrolled in school - Nursery school, preschool"
+HC01_VC04,Number; SCHOOL ENROLLMENT - Population 3 years and over enrolled in school - Kindergarten
+HC02_VC04,Percent; SCHOOL ENROLLMENT - Population 3 years and over enrolled in school - Kindergarten
+HC01_VC05,Number; SCHOOL ENROLLMENT - Population 3 years and over enrolled in school - Elementary school (grades 1-8)
+HC02_VC05,Percent; SCHOOL ENROLLMENT - Population 3 years and over enrolled in school - Elementary school (grades 1-8)
+HC01_VC06,Number; SCHOOL ENROLLMENT - Population 3 years and over enrolled in school - High school (grades 9-12)
+HC02_VC06,Percent; SCHOOL ENROLLMENT - Population 3 years and over enrolled in school - High school (grades 9-12)
+HC01_VC07,Number; SCHOOL ENROLLMENT - Population 3 years and over enrolled in school - College or graduate school
+HC02_VC07,Percent; SCHOOL ENROLLMENT - Population 3 years and over enrolled in school - College or graduate school
+HC01_VC09,Number; EDUCATIONAL ATTAINMENT - Population 25 years and over
+HC02_VC09,Percent; EDUCATIONAL ATTAINMENT - Population 25 years and over
+HC01_VC10,Number; EDUCATIONAL ATTAINMENT - Population 25 years and over - Less than 9th grade
+HC02_VC10,Percent; EDUCATIONAL ATTAINMENT - Population 25 years and over - Less than 9th grade
+HC01_VC11,"Number; EDUCATIONAL ATTAINMENT - Population 25 years and over - 9th to 12th grade, no diploma"
+HC02_VC11,"Percent; EDUCATIONAL ATTAINMENT - Population 25 years and over - 9th to 12th grade, no diploma"
+HC01_VC12,Number; EDUCATIONAL ATTAINMENT - Population 25 years and over - High school graduate (includes equivalency)
+HC02_VC12,Percent; EDUCATIONAL ATTAINMENT - Population 25 years and over - High school graduate (includes equivalency)
+HC01_VC13,"Number; EDUCATIONAL ATTAINMENT - Population 25 years and over - Some college, no degree"
+HC02_VC13,"Percent; EDUCATIONAL ATTAINMENT - Population 25 years and over - Some college, no degree"
+HC01_VC14,Number; EDUCATIONAL ATTAINMENT - Population 25 years and over - Associate degree
+HC02_VC14,Percent; EDUCATIONAL ATTAINMENT - Population 25 years and over - Associate degree
+HC01_VC15,Number; EDUCATIONAL ATTAINMENT - Population 25 years and over - Bachelor's degree
+HC02_VC15,Percent; EDUCATIONAL ATTAINMENT - Population 25 years and over - Bachelor's degree
+HC01_VC16,Number; EDUCATIONAL ATTAINMENT - Population 25 years and over - Graduate or professional degree
+HC02_VC16,Percent; EDUCATIONAL ATTAINMENT - Population 25 years and over - Graduate or professional degree
+HC01_VC17,Number; EDUCATIONAL ATTAINMENT - Population 25 years and over - Percent high school graduate or higher
+HC02_VC17,Percent; EDUCATIONAL ATTAINMENT - Population 25 years and over - Percent high school graduate or higher
+HC01_VC18,Number; EDUCATIONAL ATTAINMENT - Population 25 years and over - Percent bachelor's degree or higher
+HC02_VC18,Percent; EDUCATIONAL ATTAINMENT - Population 25 years and over - Percent bachelor's degree or higher
+HC01_VC20,Number; MARITAL STATUS - Population 15 years and over
+HC02_VC20,Percent; MARITAL STATUS - Population 15 years and over
+HC01_VC21,Number; MARITAL STATUS - Population 15 years and over - Never married
+HC02_VC21,Percent; MARITAL STATUS - Population 15 years and over - Never married
+HC01_VC22,"Number; MARITAL STATUS - Population 15 years and over - Now married, except separated"
+HC02_VC22,"Percent; MARITAL STATUS - Population 15 years and over - Now married, except separated"
+HC01_VC23,Number; MARITAL STATUS - Population 15 years and over - Separated
+HC02_VC23,Percent; MARITAL STATUS - Population 15 years and over - Separated
+HC01_VC24,Number; MARITAL STATUS - Population 15 years and over - Widowed
+HC02_VC24,Percent; MARITAL STATUS - Population 15 years and over - Widowed
+HC01_VC25,Number; MARITAL STATUS - Population 15 years and over - Widowed - Female
+HC02_VC25,Percent; MARITAL STATUS - Population 15 years and over - Widowed - Female
+HC01_VC26,Number; MARITAL STATUS - Population 15 years and over - Divorced
+HC02_VC26,Percent; MARITAL STATUS - Population 15 years and over - Divorced
+HC01_VC27,Number; MARITAL STATUS - Population 15 years and over - Divorced - Female
+HC02_VC27,Percent; MARITAL STATUS - Population 15 years and over - Divorced - Female
+HC01_VC29,Number; GRANDPARENTS AS CAREGIVERS - Grandparent living in household with one or more own grandchildren under 18 years
+HC02_VC29,Percent; GRANDPARENTS AS CAREGIVERS - Grandparent living in household with one or more own grandchildren under 18 years
+HC01_VC30,Number; GRANDPARENTS AS CAREGIVERS - Grandparent living in household with one or more own grandchildren under 18 years - Grandparent responsible for grandchildren
+HC02_VC30,Percent; GRANDPARENTS AS CAREGIVERS - Grandparent living in household with one or more own grandchildren under 18 years - Grandparent responsible for grandchildren
+HC01_VC32,Number; VETERAN STATUS - Civilian population 18 years and over
+HC02_VC32,Percent; VETERAN STATUS - Civilian population 18 years and over
+HC01_VC33,Number; VETERAN STATUS - Civilian population 18 years and over - Civilian veterans
+HC02_VC33,Percent; VETERAN STATUS - Civilian population 18 years and over - Civilian veterans
+HC01_VC35,Number; DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION - Population 5 to 20 years
+HC02_VC35,Percent; DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION - Population 5 to 20 years
+HC01_VC36,Number; DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION - Population 5 to 20 years - With a disability
+HC02_VC36,Percent; DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION - Population 5 to 20 years - With a disability
+HC01_VC37,Number; DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION - Population 21 to 64 years
+HC02_VC37,Percent; DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION - Population 21 to 64 years
+HC01_VC38,Number; DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION - Population 21 to 64 years - With a disability
+HC02_VC38,Percent; DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION - Population 21 to 64 years - With a disability
+HC01_VC39,Number; DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION - Population 21 to 64 years - With a disability - Percent employed
+HC02_VC39,Percent; DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION - Population 21 to 64 years - With a disability - Percent employed
+HC01_VC40,Number; DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION - Population 21 to 64 years - No disability
+HC02_VC40,Percent; DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION - Population 21 to 64 years - No disability
+HC01_VC41,Number; DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION - Population 21 to 64 years - No disability - Percent employed
+HC02_VC41,Percent; DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION - Population 21 to 64 years - No disability - Percent employed
+HC01_VC42,Number; DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION - Population 65 years and over
+HC02_VC42,Percent; DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION - Population 65 years and over
+HC01_VC43,Number; DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION - Population 65 years and over - With a disability
+HC02_VC43,Percent; DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION - Population 65 years and over - With a disability
+HC01_VC45,Number; RESIDENCE IN 1995 - Population 5 years and over
+HC02_VC45,Percent; RESIDENCE IN 1995 - Population 5 years and over
+HC01_VC46,Number; RESIDENCE IN 1995 - Population 5 years and over - Same house in 1995
+HC02_VC46,Percent; RESIDENCE IN 1995 - Population 5 years and over - Same house in 1995
+HC01_VC47,Number; RESIDENCE IN 1995 - Population 5 years and over - Different house in the U.S. in 1995
+HC02_VC47,Percent; RESIDENCE IN 1995 - Population 5 years and over - Different house in the U.S. in 1995
+HC01_VC48,Number; RESIDENCE IN 1995 - Population 5 years and over - Different house in the U.S. in 1995 - Same county
+HC02_VC48,Percent; RESIDENCE IN 1995 - Population 5 years and over - Different house in the U.S. in 1995 - Same county
+HC01_VC49,Number; RESIDENCE IN 1995 - Population 5 years and over - Different house in the U.S. in 1995 - Different county
+HC02_VC49,Percent; RESIDENCE IN 1995 - Population 5 years and over - Different house in the U.S. in 1995 - Different county
+HC01_VC50,Number; RESIDENCE IN 1995 - Population 5 years and over - Different house in the U.S. in 1995 - Different county - Same state
+HC02_VC50,Percent; RESIDENCE IN 1995 - Population 5 years and over - Different house in the U.S. in 1995 - Different county - Same state
+HC01_VC51,Number; RESIDENCE IN 1995 - Population 5 years and over - Different house in the U.S. in 1995 - Different county - Different state
+HC02_VC51,Percent; RESIDENCE IN 1995 - Population 5 years and over - Different house in the U.S. in 1995 - Different county - Different state
+HC01_VC52,Number; RESIDENCE IN 1995 - Population 5 years and over - Elsewhere in 1995
+HC02_VC52,Percent; RESIDENCE IN 1995 - Population 5 years and over - Elsewhere in 1995
+HC01_VC54,Number; NATIVITY AND PLACE OF BIRTH - Total population
+HC02_VC54,Percent; NATIVITY AND PLACE OF BIRTH - Total population
+HC01_VC55,Number; NATIVITY AND PLACE OF BIRTH - Total population - Native
+HC02_VC55,Percent; NATIVITY AND PLACE OF BIRTH - Total population - Native
+HC01_VC56,Number; NATIVITY AND PLACE OF BIRTH - Total population - Native - Born in United States
+HC02_VC56,Percent; NATIVITY AND PLACE OF BIRTH - Total population - Native - Born in United States
+HC01_VC57,Number; NATIVITY AND PLACE OF BIRTH - Total population - Native - Born in United States - State of residence
+HC02_VC57,Percent; NATIVITY AND PLACE OF BIRTH - Total population - Native - Born in United States - State of residence
+HC01_VC58,Number; NATIVITY AND PLACE OF BIRTH - Total population - Native - Born in United States - Different state
+HC02_VC58,Percent; NATIVITY AND PLACE OF BIRTH - Total population - Native - Born in United States - Different state
+HC01_VC59,Number; NATIVITY AND PLACE OF BIRTH - Total population - Native - Born outside United States
+HC02_VC59,Percent; NATIVITY AND PLACE OF BIRTH - Total population - Native - Born outside United States
+HC01_VC60,Number; NATIVITY AND PLACE OF BIRTH - Total population - Foreign born
+HC02_VC60,Percent; NATIVITY AND PLACE OF BIRTH - Total population - Foreign born
+HC01_VC61,Number; NATIVITY AND PLACE OF BIRTH - Total population - Foreign born - Entered 1990 to March 2000
+HC02_VC61,Percent; NATIVITY AND PLACE OF BIRTH - Total population - Foreign born - Entered 1990 to March 2000
+HC01_VC62,Number; NATIVITY AND PLACE OF BIRTH - Total population - Foreign born - Naturalized citizen
+HC02_VC62,Percent; NATIVITY AND PLACE OF BIRTH - Total population - Foreign born - Naturalized citizen
+HC01_VC63,Number; NATIVITY AND PLACE OF BIRTH - Total population - Foreign born - Not a citizen
+HC02_VC63,Percent; NATIVITY AND PLACE OF BIRTH - Total population - Foreign born - Not a citizen
+HC01_VC65,Number; REGION OF BIRTH OF FOREIGN BORN - Total (excluding born at sea)
+HC02_VC65,Percent; REGION OF BIRTH OF FOREIGN BORN - Total (excluding born at sea)
+HC01_VC66,Number; REGION OF BIRTH OF FOREIGN BORN - Total (excluding born at sea) - Europe
+HC02_VC66,Percent; REGION OF BIRTH OF FOREIGN BORN - Total (excluding born at sea) - Europe
+HC01_VC67,Number; REGION OF BIRTH OF FOREIGN BORN - Total (excluding born at sea) - Asia
+HC02_VC67,Percent; REGION OF BIRTH OF FOREIGN BORN - Total (excluding born at sea) - Asia
+HC01_VC68,Number; REGION OF BIRTH OF FOREIGN BORN - Total (excluding born at sea) - Africa
+HC02_VC68,Percent; REGION OF BIRTH OF FOREIGN BORN - Total (excluding born at sea) - Africa
+HC01_VC69,Number; REGION OF BIRTH OF FOREIGN BORN - Total (excluding born at sea) - Oceania
+HC02_VC69,Percent; REGION OF BIRTH OF FOREIGN BORN - Total (excluding born at sea) - Oceania
+HC01_VC70,Number; REGION OF BIRTH OF FOREIGN BORN - Total (excluding born at sea) - Latin America
+HC02_VC70,Percent; REGION OF BIRTH OF FOREIGN BORN - Total (excluding born at sea) - Latin America
+HC01_VC71,Number; REGION OF BIRTH OF FOREIGN BORN - Total (excluding born at sea) - Northern America
+HC02_VC71,Percent; REGION OF BIRTH OF FOREIGN BORN - Total (excluding born at sea) - Northern America
+HC01_VC73,Number; LANGUAGE SPOKEN AT HOME - Population 5 years and over
+HC02_VC73,Percent; LANGUAGE SPOKEN AT HOME - Population 5 years and over
+HC01_VC74,Number; LANGUAGE SPOKEN AT HOME - Population 5 years and over - English only
+HC02_VC74,Percent; LANGUAGE SPOKEN AT HOME - Population 5 years and over - English only
+HC01_VC75,Number; LANGUAGE SPOKEN AT HOME - Population 5 years and over - Language other than English
+HC02_VC75,Percent; LANGUAGE SPOKEN AT HOME - Population 5 years and over - Language other than English
+HC01_VC76,"Number; LANGUAGE SPOKEN AT HOME - Population 5 years and over - Language other than English - Speak English less than ""very well"""
+HC02_VC76,"Percent; LANGUAGE SPOKEN AT HOME - Population 5 years and over - Language other than English - Speak English less than ""very well"""
+HC01_VC77,Number; LANGUAGE SPOKEN AT HOME - Population 5 years and over - Language other than English - Spanish
+HC02_VC77,Percent; LANGUAGE SPOKEN AT HOME - Population 5 years and over - Language other than English - Spanish
+HC01_VC78,"Number; LANGUAGE SPOKEN AT HOME - Population 5 years and over - Language other than English - Spanish - Speak English less than ""very well"""
+HC02_VC78,"Percent; LANGUAGE SPOKEN AT HOME - Population 5 years and over - Language other than English - Spanish - Speak English less than ""very well"""
+HC01_VC79,Number; LANGUAGE SPOKEN AT HOME - Population 5 years and over - Language other than English - Other Indo-European languages
+HC02_VC79,Percent; LANGUAGE SPOKEN AT HOME - Population 5 years and over - Language other than English - Other Indo-European languages
+HC01_VC80,"Number; LANGUAGE SPOKEN AT HOME - Population 5 years and over - Language other than English - Other Indo-European languages - Speak English less than ""very well"""
+HC02_VC80,"Percent; LANGUAGE SPOKEN AT HOME - Population 5 years and over - Language other than English - Other Indo-European languages - Speak English less than ""very well"""
+HC01_VC81,Number; LANGUAGE SPOKEN AT HOME - Population 5 years and over - Language other than English - Asian and Pacific Island languages
+HC02_VC81,Percent; LANGUAGE SPOKEN AT HOME - Population 5 years and over - Language other than English - Asian and Pacific Island languages
+HC01_VC82,"Number; LANGUAGE SPOKEN AT HOME - Population 5 years and over - Language other than English - Asian and Pacific Island languages - Speak English less than ""very well"""
+HC02_VC82,"Percent; LANGUAGE SPOKEN AT HOME - Population 5 years and over - Language other than English - Asian and Pacific Island languages - Speak English less than ""very well"""
+HC01_VC84,Number; ANCESTRY (single or multiple) - Total population
+HC02_VC84,Percent; ANCESTRY (single or multiple) - Total population
+HC01_VC85,Number; ANCESTRY (single or multiple) - Total ancestries reported
+HC02_VC85,Percent; ANCESTRY (single or multiple) - Total ancestries reported
+HC01_VC86,Number; ANCESTRY (single or multiple) - Total ancestries reported - Arab
+HC02_VC86,Percent; ANCESTRY (single or multiple) - Total ancestries reported - Arab
+HC01_VC87,Number; ANCESTRY (single or multiple) - Total ancestries reported - Czech[1]
+HC02_VC87,Percent; ANCESTRY (single or multiple) - Total ancestries reported - Czech[1]
+HC01_VC88,Number; ANCESTRY (single or multiple) - Total ancestries reported - Danish
+HC02_VC88,Percent; ANCESTRY (single or multiple) - Total ancestries reported - Danish
+HC01_VC89,Number; ANCESTRY (single or multiple) - Total ancestries reported - Dutch
+HC02_VC89,Percent; ANCESTRY (single or multiple) - Total ancestries reported - Dutch
+HC01_VC90,Number; ANCESTRY (single or multiple) - Total ancestries reported - English
+HC02_VC90,Percent; ANCESTRY (single or multiple) - Total ancestries reported - English
+HC01_VC91,Number; ANCESTRY (single or multiple) - Total ancestries reported - French (except Basque)[1]
+HC02_VC91,Percent; ANCESTRY (single or multiple) - Total ancestries reported - French (except Basque)[1]
+HC01_VC92,Number; ANCESTRY (single or multiple) - Total ancestries reported - French Canadian[1]
+HC02_VC92,Percent; ANCESTRY (single or multiple) - Total ancestries reported - French Canadian[1]
+HC01_VC93,Number; ANCESTRY (single or multiple) - Total ancestries reported - German
+HC02_VC93,Percent; ANCESTRY (single or multiple) - Total ancestries reported - German
+HC01_VC94,Number; ANCESTRY (single or multiple) - Total ancestries reported - Greek
+HC02_VC94,Percent; ANCESTRY (single or multiple) - Total ancestries reported - Greek
+HC01_VC95,Number; ANCESTRY (single or multiple) - Total ancestries reported - Hungarian
+HC02_VC95,Percent; ANCESTRY (single or multiple) - Total ancestries reported - Hungarian
+HC01_VC96,Number; ANCESTRY (single or multiple) - Total ancestries reported - Irish[1]
+HC02_VC96,Percent; ANCESTRY (single or multiple) - Total ancestries reported - Irish[1]
+HC01_VC97,Number; ANCESTRY (single or multiple) - Total ancestries reported - Italian
+HC02_VC97,Percent; ANCESTRY (single or multiple) - Total ancestries reported - Italian
+HC01_VC98,Number; ANCESTRY (single or multiple) - Total ancestries reported - Lithuanian
+HC02_VC98,Percent; ANCESTRY (single or multiple) - Total ancestries reported - Lithuanian
+HC01_VC99,Number; ANCESTRY (single or multiple) - Total ancestries reported - Norwegian
+HC02_VC99,Percent; ANCESTRY (single or multiple) - Total ancestries reported - Norwegian
+HC01_VC100,Number; ANCESTRY (single or multiple) - Total ancestries reported - Polish
+HC02_VC100,Percent; ANCESTRY (single or multiple) - Total ancestries reported - Polish
+HC01_VC101,Number; ANCESTRY (single or multiple) - Total ancestries reported - Portuguese
+HC02_VC101,Percent; ANCESTRY (single or multiple) - Total ancestries reported - Portuguese
+HC01_VC102,Number; ANCESTRY (single or multiple) - Total ancestries reported - Russian
+HC02_VC102,Percent; ANCESTRY (single or multiple) - Total ancestries reported - Russian
+HC01_VC103,Number; ANCESTRY (single or multiple) - Total ancestries reported - Scotch-Irish
+HC02_VC103,Percent; ANCESTRY (single or multiple) - Total ancestries reported - Scotch-Irish
+HC01_VC104,Number; ANCESTRY (single or multiple) - Total ancestries reported - Scottish
+HC02_VC104,Percent; ANCESTRY (single or multiple) - Total ancestries reported - Scottish
+HC01_VC105,Number; ANCESTRY (single or multiple) - Total ancestries reported - Slovak
+HC02_VC105,Percent; ANCESTRY (single or multiple) - Total ancestries reported - Slovak
+HC01_VC106,Number; ANCESTRY (single or multiple) - Total ancestries reported - Subsaharan African
+HC02_VC106,Percent; ANCESTRY (single or multiple) - Total ancestries reported - Subsaharan African
+HC01_VC107,Number; ANCESTRY (single or multiple) - Total ancestries reported - Swedish
+HC02_VC107,Percent; ANCESTRY (single or multiple) - Total ancestries reported - Swedish
+HC01_VC108,Number; ANCESTRY (single or multiple) - Total ancestries reported - Swiss
+HC02_VC108,Percent; ANCESTRY (single or multiple) - Total ancestries reported - Swiss
+HC01_VC109,Number; ANCESTRY (single or multiple) - Total ancestries reported - Ukrainian
+HC02_VC109,Percent; ANCESTRY (single or multiple) - Total ancestries reported - Ukrainian
+HC01_VC110,Number; ANCESTRY (single or multiple) - Total ancestries reported - United States or American
+HC02_VC110,Percent; ANCESTRY (single or multiple) - Total ancestries reported - United States or American
+HC01_VC111,Number; ANCESTRY (single or multiple) - Total ancestries reported - Welsh
+HC02_VC111,Percent; ANCESTRY (single or multiple) - Total ancestries reported - Welsh
+HC01_VC112,Number; ANCESTRY (single or multiple) - Total ancestries reported - West Indian (excluding Hispanic groups)
+HC02_VC112,Percent; ANCESTRY (single or multiple) - Total ancestries reported - West Indian (excluding Hispanic groups)
+HC01_VC113,Number; ANCESTRY (single or multiple) - Total ancestries reported - Other ancestries
+HC02_VC113,Percent; ANCESTRY (single or multiple) - Total ancestries reported - Other ancestries

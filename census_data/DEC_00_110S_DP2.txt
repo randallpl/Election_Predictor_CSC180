@@ -1,0 +1,48 @@
+DP-2
+Profile of Selected Social Characteristics: 2000
+
+NOTE: Data based on a sample except in P3, P4, H3, and H4. For
+information on confidentiality protection, sampling error,
+nonsampling error, definitions, and count corrections see
+http://www.census.gov/prod/cen2000/doc/cd110s.pdf
+
+
+
+
+Source: U.S. Census Bureau, 110th Congressional District Summary
+File (Sample), Matrices P18, P19, P21, P22, P24, P36, P37, P39,
+P42, PCT8, PCT16, PCT17, and PCT19.
+
+
+
+
+(X) Not applicable.
+
+
+
+[1] The data represent a combination of two ancestries shown
+separately in Summary File 3. Czech includes Czechoslovakian.
+French includes Alsatian. French Canadian includes Acadian/Cajun.
+Irish includes Celtic.
+
+
+
+Ancestry Code List (PDF35 KB)
+
+
+Place of Birth Code List (PDF 74KB)
+
+
+Language Code List (PDF 17KB)
+
+
+Where the boundary of a congressional district for the 110th
+Congress splits a Census 2000 block, the Census Bureau's map
+depicts its location correctly, but for data tabulation purposes,
+that block is allocated in its entirety to the 110th Congressional
+District specified by the state. For a list of 110th Congressional
+Districts that split blocks, see
+http://www.census.gov/geo/www/cd110th/spblk110.txt
+
+
+
