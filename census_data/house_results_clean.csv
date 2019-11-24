@@ -21036,9 +21036,9 @@ year,state,state_po,state_fips,state_cen,state_ic,office,district,stage,runoff,s
 2006,Texas,TX,48,74,49,US House,27,gen,NA,FALSE,"Wm. """"Willie"""" Vaden",republican,FALSE,total,42538,109314,FALSE,20171005
 2006,Texas,TX,48,74,49,US House,27,gen,NA,FALSE,Robert Powell,libertarian,FALSE,total,4718,109314,FALSE,20171005
 2006,Texas,TX,48,74,49,US House,27,gen,NA,FALSE,Solomon P. Ortiz,democrat,FALSE,total,62058,109314,FALSE,20171005
-2006,Texas,TX,48,74,49,US House,28,,NA,TRUE,Henry Cuellar,democrat,FALSE,total,52574,77755,FALSE,20171005
-2006,Texas,TX,48,74,49,US House,28,,NA,TRUE,Ron Avery,conservative,FALSE,total,9383,77755,FALSE,20171005
-2006,Texas,TX,48,74,49,US House,28,,NA,TRUE,Frank Enriquez,democrat,FALSE,total,15798,77755,FALSE,20171005
+2006,Texas,TX,48,74,49,US House,28,gen,NA,TRUE,Henry Cuellar,democrat,FALSE,total,68372,77755,FALSE,20171005
+2006,Texas,TX,48,74,49,US House,28,gen,NA,TRUE,Ron Avery,conservative,FALSE,total,9383,77755,FALSE,20171005
+2006,Texas,TX,48,74,49,US House,28,gen,NA,TRUE,Frank Enriquez,fuck_texas_elections,FALSE,total,15798,77755,FALSE,20171005
 2006,Texas,TX,48,74,49,US House,29,gen,NA,FALSE,Gene Green,democrat,FALSE,total,37174,50550,FALSE,20171005
 2006,Texas,TX,48,74,49,US House,29,gen,NA,FALSE,Eric Story,republican,FALSE,total,12347,50550,FALSE,20171005
 2006,Texas,TX,48,74,49,US House,29,gen,NA,FALSE,Clifford Lee Messina,libertarian,FALSE,total,1029,50550,FALSE,20171005
